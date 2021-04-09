@@ -6,3 +6,9 @@ console.log(222);
 function cut(a,b){
     return a-b;
 }
+function ride(a,b){
+    return a*b;
+}
+function chu(a,b){
+    return a/b;
+}
